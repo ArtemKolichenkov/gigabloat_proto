@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "gigabloat_proto"
+name = "protobloat"
 version = "0.1.0"
 description = "gRPC proto definitions for Gigabloat"
 authors = ["Artem Kolichenkov <artem@kolichenkov.com>"]
