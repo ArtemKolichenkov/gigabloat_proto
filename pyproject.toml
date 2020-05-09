@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "gigabloat_proto"
+version = "0.1.0"
+description = "gRPC proto definitions for Gigabloat"
+authors = ["Artem Kolichenkov <artem@kolichenkov.com>"]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+repository = "https://github.com/ArtemKolichenkov/gigabloat_proto"
+keywords = ["bloat", "filemanager", "gRPC"]
+
+[tool.poetry.dependencies]
+python = "^3.8.2"
+grpcio-tools = "^1.28.1"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
