@@ -1,3 +1,4 @@
+__version__ = "0.1.0"
 from shutil import copy2
 import pathlib
 import os
