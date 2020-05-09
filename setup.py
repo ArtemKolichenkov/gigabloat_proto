@@ -8,4 +8,5 @@ setup(
     author_email="artem@kolichenkov.com",
     packages=["gigabloat_proto"],
     install_requires=[],
+    package_data={"protofiles": ["gigabloat.proto"]},
 )
