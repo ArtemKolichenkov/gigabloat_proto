@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="gigabloat_proto",
+    name="protobloat",
     version="0.1.1",
     description="Proto file for Gigabloat",
     author="Artem Kolichenkov",
