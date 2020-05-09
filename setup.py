@@ -6,7 +6,7 @@ setup(
     description="Proto file for Gigabloat",
     author="Artem Kolichenkov",
     author_email="artem@kolichenkov.com",
-    packages=["gigabloat_proto"],
+    packages=["protobloat"],
     install_requires=[],
     include_package_data=True,
 )
